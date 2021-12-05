@@ -1,2 +1,2 @@
 # LinearStructure 2
-**mini project 1**
+**mini project 2**
